@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello Azure !";
+echo "Hello Azure ! It's my first Web Application";
 
 ?>
